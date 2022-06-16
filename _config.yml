@@ -1,0 +1,52 @@
+#-------------------------------------#
+#--- Welcome to NAQADAQE Portfolio ---#
+#-------------------------------------#
+
+# About Website
+title: Naqadaqe 中岳 Studio
+author: Quik Naqadaqe
+description: >- # My Site Description 
+  Naqadaqe is here to save you from tedious workload.
+  Most afordable price and highest quality for your business with minimal effort.
+  Explore Naqadaqe Portfolio Now!
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.naqadaqe.github.io" # the base hostname & protocol for your site
+
+# Social Links
+email: naqadaqe@gmail.com
+twitter_username: ...
+github_username:  naqadaqe
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+# google_analytics: "UA-XXXXXXXX-X"
+
+# Default Front Matter
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+
+    values:
+      layout: "post"
+      separator: "|"
+      permalink: /:categories/:title.html
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+

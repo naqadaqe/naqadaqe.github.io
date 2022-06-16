@@ -1,0 +1,185 @@
+<html>
+
+
+  <!-- 
+    FAB Styling 
+  -->
+  <style>
+
+    /* The Button */
+
+    .fab {
+      position: fixed;
+      direction: rtl;
+      bottom: 3rem;
+      right: 2.5rem;
+      width: 4rem;
+      height: 4rem;
+      background: #F9DA60; /* lite-color */
+      border-radius: 50%;
+      cursor: pointer;
+      box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+      z-index: 1000;
+    }
+    
+    .fab span {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #F7D13B; /* power-color */
+      font-size: 3em;
+      transition: 0.3s ease-in-out;
+    }
+    
+    .fab span svg {
+      width: 100%;
+      height: 100%;
+      filter: brightness(70%);
+      transition: 0.3s;
+    }
+    
+    .fab.active span svg {
+      filter: brightness(100%) drop-shadow(1.5px 1.5px 2px rgba(0, 0, 0, .7));
+      transition: 0.3s;
+    }
+
+    /* The List */
+
+    .fab ul {
+      position: absolute;
+      direction: ltr;
+      bottom: 2rem;
+      width: 12rem;
+      padding: 20px;
+      border-radius: 20px;
+      opacity: 0;
+      visibility: hidden;
+      transition: 0.3s;
+      background-color: #F2E279; /* light gold */
+      /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset; */
+      box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    }
+    
+    .fab.active ul {
+      bottom: 6rem;
+      opacity: 1;
+      visibility: visible;
+      transition: 0.3s;
+    }
+   
+    .fab ul li {
+      list-style: none;
+      font-size: 1.414rem;
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      padding: 10px 0;
+      transition: 0.3s;
+    }
+   
+    .fab ul li:not(:last-child) {
+      border-bottom: 1px solid rgba(195, 158, 9, 0.2);
+      /* Draw line under each link */
+    }
+    
+    .fab ul li i {
+      margin-right: 10px;
+    }
+    
+    .fab ul li a {
+      text-decoration: none;
+      font-family: 'Josefin Sans', sans-serif;
+      color: #765F05; /* bronze */
+    }
+    
+    .fab ul li a:hover {
+      font-weight: 800;
+      color: #EDC423; /* gold */
+    }
+
+    /* The Claws */
+
+    .fab svg #upper-claw {
+      transform-origin: 45% 50%;
+    }
+
+    .fab svg #bottom-claw {
+      transform-origin: 50% 60%;
+    }
+    
+    .fab.active svg #upper-claw {
+      animation: upper-claw-movement 1.2s infinite;
+      animation-timing-function: cubic-bezier(0.68, -0.6, 0.32, 1.6);
+    }
+
+    .fab.active svg #bottom-claw {
+      animation: bottom-claw-movement 1.2s infinite;
+      animation-timing-function: cubic-bezier(0.68, -0.6, 0.32, 1.6);
+    }
+    
+    @keyframes upper-claw-movement {
+      0%   {transform: rotate(0deg);}
+      25%   {transform: rotate(10deg);}
+      35%   {transform: rotate(0deg);}
+      50%   {transform: rotate(10deg);}
+      100%   {transform: rotate(0deg);}
+    }
+    
+    @keyframes bottom-claw-movement {
+      0%   {transform: rotate(0deg);}
+      25%   {transform: rotate(-20deg);}
+      35%   {transform: rotate(0deg);}
+      50%   {transform: rotate(-20deg);}
+      100%   {transform: rotate(0deg);}
+    }
+   
+  </style>
+
+
+  <body>
+
+
+    <!-- 
+      FAB html 
+    -->
+    <div class="fab" onclick="fabToggle();">
+
+      <span>
+        {% include claw.svg %}
+      </span>
+
+      <ul>
+        <li><a href="{{ site.url }}">
+            <i class="fa-solid fa-fire-flame-curved fa-rotate-by fa-fade" style="--fa-rotate-angle: -70deg;"></i>
+            What ?</a></li>
+        <li><a href="{{ site.url }}/about">
+            <i class="fa-solid fa-mask fa-fade"></i>
+            Who ?</a></li>
+        <li><a href="{{ site.url }}/contact">
+            <i class="fa-solid fa-globe fa-fade"></i>
+            Where ?</a></li>
+      </ul>
+
+    </div>
+
+
+    <!-- 
+      FAB Script 
+    -->
+    <script>
+      
+      function fabToggle() {
+        var fab = document.querySelector(".fab");
+        fab.classList.toggle("active");
+      }
+
+    </script>
+
+
+  </body>
+
+</html>
+

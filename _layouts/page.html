@@ -1,0 +1,119 @@
+---
+layout: "default"
+---
+
+
+<!--
+  TopNav
+-->
+<div id="Nav" class="topnav">
+
+  <span class="topleft">
+
+    <!-- Categories Icon -->
+    <a href="{{ site.url }}/#{{ page.categories }}">
+      <i class="fa-solid 
+        {% if page.icon %}
+          {{ page.icon }}
+        {% else %}
+          fa-fire-flame-curved fa-rotate-by" style="--fa-rotate-angle: -70deg; 
+        {% endif %}"></i> 
+        <h6 style="text-transform: uppercase;">
+          {% if page.categories %}
+            {{ page.categories }}
+          {% else %}
+            Naqadaqe
+          {% endif %}
+        </h6>
+      </a>
+
+  </span>
+  
+  <span class="topright">
+
+    <!-- Share Menu Icon -->
+      <input type="checkbox"/>
+      <i class="fa-solid fa-share-nodes share-icon" alt="Share Button"></i>
+
+    <!-- Share Icons -->            
+	    <div class="share-items-bar">
+    	  <div class="share-items">
+          {%- include share.html -%}
+    		</div>
+      </div>
+
+  </span>
+
+</div> <!-- TopNav End -->
+
+
+
+<!--
+  Hero
+-->
+<header id="Hero" class="hero" 
+  {% if page.image %} 
+    style="background-image: url('{{ page.image }}')" 
+  {% endif %}>
+
+  <div id="HeroText" class="hero-text">
+
+    <h1>{{ page.title }}</h1>
+    <h6>{{ page.date | date_to_long_string: "ordinal", "US" }} {{ page.separator }} {{ page.duration }}</h6>
+
+  </div>
+
+</header> <!-- Hero End -->
+
+
+
+<!--
+  Content
+-->
+<main class="content">
+
+	<div class="content-text">
+    
+    {{ content }}
+  
+  </div>
+
+</main> <!-- Content End -->
+
+
+
+<!--
+  Page JS
+-->
+<script>
+
+  // TopNav Scroll Effect
+
+  var prevScroll = window.pageYOffset;
+
+  window.onscroll = function() {
+
+    var currentScroll = window.pageYOffset;
+
+    if (window.scrollY < 30) {
+      document.getElementById("Nav").style.backgroundColor = "transparent";
+      document.getElementById("Nav").style.boxShadow = "none";
+    } else if (prevScroll > currentScroll) {
+      document.getElementById("Nav").style.top = "0";
+      document.getElementById("Nav").style.backgroundColor = "#C4F4CF";
+      document.getElementById("Nav").style.boxShadow = "rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px";
+    } else {
+      document.getElementById("Nav").style.top = "-50px";
+    }
+
+    prevScroll = currentScroll;
+
+    document.getElementById("Hero").style.backgroundSize = parseInt(window.scrollY / 5) + 100 + '%';
+
+    document.getElementById("HeroText").style.top = parseInt(window.scrollY * .1) + 50 + '%';
+    document.getElementById("HeroText").style.opacity = 1 - (window.scrollY * .003);
+
+  }
+
+</script>
+

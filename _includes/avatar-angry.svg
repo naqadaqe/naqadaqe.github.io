@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="naqadaqe-angry"
+   viewBox="0 0 512 512"
+   shape-rendering="geometricPrecision"
+   text-rendering="geometricPrecision"
+   version="1.1"
+   sodipodi:docname="avatar-angry.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs44" />
+  <sodipodi:namedview
+     id="namedview42"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="0.48580066"
+     inkscape:cx="225.4011"
+     inkscape:cy="414.77918"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="avatar" />
+  <style
+     id="style2"><![CDATA[#naqadaqe-u-shell_tr {animation: naqadaqe-u-shell_tr__tr 8000ms linear infinite normal forwards}@keyframes naqadaqe-u-shell_tr__tr { 0% {transform: translate(292.989265px,439.449475px) rotate(0deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 6.25% {transform: translate(292.989265px,439.449475px) rotate(-2deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 12.5% {transform: translate(292.989265px,439.449475px) rotate(0deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 18.75% {transform: translate(292.989265px,439.449475px) rotate(2deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 25% {transform: translate(292.989265px,439.449475px) rotate(0deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 31.25% {transform: translate(292.989265px,439.449475px) rotate(-2deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 37.5% {transform: translate(292.989265px,439.449475px) rotate(0deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 43.75% {transform: translate(292.989265px,439.449475px) rotate(2deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 50% {transform: translate(292.989265px,439.449475px) rotate(0deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 56.25% {transform: translate(292.989265px,439.449475px) rotate(-2deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 62.5% {transform: translate(292.989265px,439.449475px) rotate(0deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 68.75% {transform: translate(292.989265px,439.449475px) rotate(2deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 75% {transform: translate(292.989265px,439.449475px) rotate(0deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 81.25% {transform: translate(292.989265px,439.449475px) rotate(-2deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 87.5% {transform: translate(292.989265px,439.449475px) rotate(0deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 93.75% {transform: translate(292.989265px,439.449475px) rotate(2deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 100% {transform: translate(292.989265px,439.449475px) rotate(0deg)}} #naqadaqe-u-leg-1_tr {animation: naqadaqe-u-leg-1_tr__tr 8000ms linear infinite normal forwards}@keyframes naqadaqe-u-leg-1_tr__tr { 0% {transform: translate(225.64525px,406.56px) rotate(0deg);animation-timing-function: cubic-bezier(0.23,1,0.32,1)} 2.75% {transform: translate(225.64525px,406.56px) rotate(-10deg);animation-timing-function: cubic-bezier(0.23,1,0.32,1)} 12.5% {transform: translate(225.64525px,406.56px) rotate(0deg);animation-timing-function: cubic-bezier(0.23,1,0.32,1)} 15.25% {transform: translate(225.64525px,406.56px) rotate(-10deg);animation-timing-function: cubic-bezier(0.23,1,0.32,1)} 25% {transform: translate(225.64525px,406.56px) rotate(0deg);animation-timing-function: cubic-bezier(0.23,1,0.32,1)} 27.75% {transform: translate(225.64525px,406.56px) rotate(-10deg);animation-timing-function: cubic-bezier(0.23,1,0.32,1)} 37.5% {transform: translate(225.64525px,406.56px) rotate(0deg);animation-timing-function: cubic-bezier(0.23,1,0.32,1)} 40.25% {transform: translate(225.64525px,406.56px) rotate(-10deg);animation-timing-function: cubic-bezier(0.23,1,0.32,1)} 50% {transform: translate(225.64525px,406.56px) rotate(0deg);animation-timing-function: cubic-bezier(0.23,1,0.32,1)} 52.75% {transform: translate(225.64525px,406.56px) rotate(-10deg);animation-timing-function: cubic-bezier(0.23,1,0.32,1)} 62.5% {transform: translate(225.64525px,406.56px) rotate(0deg);animation-timing-function: cubic-bezier(0.23,1,0.32,1)} 65.25% {transform: translate(225.64525px,406.56px) rotate(-10deg);animation-timing-function: cubic-bezier(0.23,1,0.32,1)} 75% {transform: translate(225.64525px,406.56px) rotate(0deg);animation-timing-function: cubic-bezier(0.23,1,0.32,1)} 77.75% {transform: translate(225.64525px,406.56px) rotate(-10deg);animation-timing-function: cubic-bezier(0.23,1,0.32,1)} 87.5% {transform: translate(225.64525px,406.56px) rotate(0deg);animation-timing-function: cubic-bezier(0.23,1,0.32,1)} 90.25% {transform: translate(225.64525px,406.56px) rotate(-10deg);animation-timing-function: cubic-bezier(0.23,1,0.32,1)} 100% {transform: translate(225.64525px,406.56px) rotate(0deg)}} #naqadaqe-u-leg-2_tr {animation: naqadaqe-u-leg-2_tr__tr 8000ms linear infinite normal forwards}@keyframes naqadaqe-u-leg-2_tr__tr { 0% {transform: translate(275.82969px,415.64px) rotate(0deg);animation-timing-function: cubic-bezier(0.86,0,0.07,1)} 6.25% {transform: translate(275.82969px,415.64px) rotate(-10deg);animation-timing-function: cubic-bezier(0.86,0,0.07,1)} 12.5% {transform: translate(275.82969px,415.64px) rotate(0deg);animation-timing-function: cubic-bezier(0.86,0,0.07,1)} 18.75% {transform: translate(275.82969px,415.64px) rotate(-10deg);animation-timing-function: cubic-bezier(0.86,0,0.07,1)} 25% {transform: translate(275.82969px,415.64px) rotate(0deg);animation-timing-function: cubic-bezier(0.86,0,0.07,1)} 31.25% {transform: translate(275.82969px,415.64px) rotate(-10deg);animation-timing-function: cubic-bezier(0.86,0,0.07,1)} 37.5% {transform: translate(275.82969px,415.64px) rotate(0deg);animation-timing-function: cubic-bezier(0.86,0,0.07,1)} 43.75% {transform: translate(275.82969px,415.64px) rotate(-10deg);animation-timing-function: cubic-bezier(0.86,0,0.07,1)} 50% {transform: translate(275.82969px,415.64px) rotate(0deg);animation-timing-function: cubic-bezier(0.86,0,0.07,1)} 56.25% {transform: translate(275.82969px,415.64px) rotate(-10deg);animation-timing-function: cubic-bezier(0.86,0,0.07,1)} 62.5% {transform: translate(275.82969px,415.64px) rotate(0deg);animation-timing-function: cubic-bezier(0.86,0,0.07,1)} 68.75% {transform: translate(275.82969px,415.64px) rotate(-10deg);animation-timing-function: cubic-bezier(0.86,0,0.07,1)} 75% {transform: translate(275.82969px,415.64px) rotate(0deg);animation-timing-function: cubic-bezier(0.86,0,0.07,1)} 81.25% {transform: translate(275.82969px,415.64px) rotate(-10deg);animation-timing-function: cubic-bezier(0.86,0,0.07,1)} 87.5% {transform: translate(275.82969px,415.64px) rotate(0deg);animation-timing-function: cubic-bezier(0.86,0,0.07,1)} 93.75% {transform: translate(275.82969px,415.64px) rotate(-10deg);animation-timing-function: cubic-bezier(0.86,0,0.07,1)} 100% {transform: translate(275.82969px,415.64px) rotate(0deg)}} #naqadaqe-u-leg-3_tr {animation: naqadaqe-u-leg-3_tr__tr 8000ms linear infinite normal forwards}@keyframes naqadaqe-u-leg-3_tr__tr { 0% {transform: translate(325.015645px,413.97px) rotate(0deg);animation-timing-function: cubic-bezier(0.755,0.05,0.855,0.06)} 9.25% {transform: translate(325.015645px,413.97px) rotate(-10deg);animation-timing-function: cubic-bezier(0.755,0.05,0.855,0.06)} 12.5% {transform: translate(325.015645px,413.97px) rotate(0deg);animation-timing-function: cubic-bezier(0.755,0.05,0.855,0.06)} 21.75% {transform: translate(325.015645px,413.97px) rotate(-10deg);animation-timing-function: cubic-bezier(0.755,0.05,0.855,0.06)} 25% {transform: translate(325.015645px,413.97px) rotate(0deg);animation-timing-function: cubic-bezier(0.755,0.05,0.855,0.06)} 34.25% {transform: translate(325.015645px,413.97px) rotate(-10deg);animation-timing-function: cubic-bezier(0.755,0.05,0.855,0.06)} 37.5% {transform: translate(325.015645px,413.97px) rotate(0deg);animation-timing-function: cubic-bezier(0.755,0.05,0.855,0.06)} 46.75% {transform: translate(325.015645px,413.97px) rotate(-10deg);animation-timing-function: cubic-bezier(0.755,0.05,0.855,0.06)} 50% {transform: translate(325.015645px,413.97px) rotate(0deg);animation-timing-function: cubic-bezier(0.755,0.05,0.855,0.06)} 59.25% {transform: translate(325.015645px,413.97px) rotate(-10deg);animation-timing-function: cubic-bezier(0.755,0.05,0.855,0.06)} 62.5% {transform: translate(325.015645px,413.97px) rotate(0deg);animation-timing-function: cubic-bezier(0.755,0.05,0.855,0.06)} 71.75% {transform: translate(325.015645px,413.97px) rotate(-10deg);animation-timing-function: cubic-bezier(0.755,0.05,0.855,0.06)} 75% {transform: translate(325.015645px,413.97px) rotate(0deg);animation-timing-function: cubic-bezier(0.755,0.05,0.855,0.06)} 84.25% {transform: translate(325.015645px,413.97px) rotate(-10deg);animation-timing-function: cubic-bezier(0.755,0.05,0.855,0.06)} 87.5% {transform: translate(325.015645px,413.97px) rotate(0deg);animation-timing-function: cubic-bezier(0.755,0.05,0.855,0.06)} 96.75% {transform: translate(325.015645px,413.97px) rotate(-10deg);animation-timing-function: cubic-bezier(0.755,0.05,0.855,0.06)} 100% {transform: translate(325.015645px,413.97px) rotate(0deg)}} #naqadaqe-u-body_tr {animation: naqadaqe-u-body_tr__tr 8000ms linear infinite normal forwards}@keyframes naqadaqe-u-body_tr__tr { 0% {transform: translate(292.744px,438.913553px) rotate(0deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 6.25% {transform: translate(292.744px,438.913553px) rotate(-2deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 12.5% {transform: translate(292.744px,438.913553px) rotate(0deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 18.75% {transform: translate(292.744px,438.913553px) rotate(2deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 25% {transform: translate(292.744px,438.913553px) rotate(0deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 31.25% {transform: translate(292.744px,438.913553px) rotate(-2deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 37.5% {transform: translate(292.744px,438.913553px) rotate(0deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 43.75% {transform: translate(292.744px,438.913553px) rotate(2deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 50% {transform: translate(292.744px,438.913553px) rotate(0deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 56.25% {transform: translate(292.744px,438.913553px) rotate(-2deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 62.5% {transform: translate(292.744px,438.913553px) rotate(0deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 68.75% {transform: translate(292.744px,438.913553px) rotate(2deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 75% {transform: translate(292.744px,438.913553px) rotate(0deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 81.25% {transform: translate(292.744px,438.913553px) rotate(-2deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 87.5% {transform: translate(292.744px,438.913553px) rotate(0deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 93.75% {transform: translate(292.744px,438.913553px) rotate(2deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 100% {transform: translate(292.744px,438.913553px) rotate(0deg)}} #naqadaqe-u-eyes_tr {animation: naqadaqe-u-eyes_tr__tr 8000ms linear infinite normal forwards}@keyframes naqadaqe-u-eyes_tr__tr { 0% {transform: translate(304.709328px,288.029756px) rotate(0deg);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 6.25% {transform: translate(304.709328px,288.029756px) rotate(4deg);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 12.5% {transform: translate(304.709328px,288.029756px) rotate(0deg);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 18.75% {transform: translate(304.709328px,288.029756px) rotate(-4deg);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 25% {transform: translate(304.709328px,288.029756px) rotate(0deg);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 31.25% {transform: translate(304.709328px,288.029756px) rotate(4deg);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 37.5% {transform: translate(304.709328px,288.029756px) rotate(0deg);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 43.75% {transform: translate(304.709328px,288.029756px) rotate(-4deg);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 50% {transform: translate(304.709328px,288.029756px) rotate(0deg);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 56.25% {transform: translate(304.709328px,288.029756px) rotate(4deg);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 62.5% {transform: translate(304.709328px,288.029756px) rotate(0deg);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 68.75% {transform: translate(304.709328px,288.029756px) rotate(-4deg);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 75% {transform: translate(304.709328px,288.029756px) rotate(0deg);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 81.25% {transform: translate(304.709328px,288.029756px) rotate(4deg);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 87.5% {transform: translate(304.709328px,288.029756px) rotate(0deg);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 93.75% {transform: translate(304.709328px,288.029756px) rotate(-4deg);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 100% {transform: translate(304.709328px,288.029756px) rotate(0deg)}} #naqadaqe-u-left-eye-ball_ts {animation: naqadaqe-u-left-eye-ball_ts__ts 8000ms linear infinite normal forwards}@keyframes naqadaqe-u-left-eye-ball_ts__ts { 0% {transform: translate(292.744263px,333.301849px) scale(1,1.069363)} 25% {transform: translate(292.744263px,333.301849px) scale(1,1.069363);animation-timing-function: cubic-bezier(0,0,0.58,1)} 26.25% {transform: translate(292.744263px,333.301849px) scale(1,0.255108);animation-timing-function: cubic-bezier(0,0,0.58,1)} 27.5% {transform: translate(292.744263px,333.301849px) scale(1,1.069363);animation-timing-function: cubic-bezier(0,0,0.58,1)} 62.5% {transform: translate(292.744263px,333.301849px) scale(1,1.069363);animation-timing-function: cubic-bezier(0,0,0.58,1)} 63.75% {transform: translate(292.744263px,333.301849px) scale(1,0.255108);animation-timing-function: cubic-bezier(0,0,0.58,1)} 65% {transform: translate(292.744263px,333.301849px) scale(1,1.069363)} 100% {transform: translate(292.744263px,333.301849px) scale(1,1.069363)}} #naqadaqe-u-right-eye-ball_ts {animation: naqadaqe-u-right-eye-ball_ts__ts 8000ms linear infinite normal forwards}@keyframes naqadaqe-u-right-eye-ball_ts__ts { 0% {transform: translate(349.139862px,333.301819px) scale(1,1.069363)} 25% {transform: translate(349.139862px,333.301819px) scale(1,1.069363);animation-timing-function: cubic-bezier(0,0,0.58,1)} 26.25% {transform: translate(349.139862px,333.301819px) scale(1,0.255108);animation-timing-function: cubic-bezier(0,0,0.58,1)} 27.5% {transform: translate(349.139862px,333.301819px) scale(1,1.069363);animation-timing-function: cubic-bezier(0,0,0.58,1)} 62.5% {transform: translate(349.139862px,333.301819px) scale(1,1.069363);animation-timing-function: cubic-bezier(0,0,0.58,1)} 63.75% {transform: translate(349.139862px,333.301819px) scale(1,0.255108);animation-timing-function: cubic-bezier(0,0,0.58,1)} 65% {transform: translate(349.139862px,333.301819px) scale(1,1.069363)} 100% {transform: translate(349.139862px,333.301819px) scale(1,1.069363)}} #naqadaqe-u-claw_to {animation: naqadaqe-u-claw_to__to 8000ms linear infinite normal forwards}@keyframes naqadaqe-u-claw_to__to { 0% {transform: translate(319.731759px,340.52448px);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 6.25% {transform: translate(314.058882px,337.977533px);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 12.5% {transform: translate(319.731759px,340.52448px);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 18.75% {transform: translate(326.058882px,337.977533px);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 25% {transform: translate(319.731759px,340.52448px);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 31.25% {transform: translate(314.058882px,337.977533px);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 37.5% {transform: translate(319.731759px,340.52448px);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 75% {transform: translate(319.731759px,340.52448px);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 81.25% {transform: translate(314.058882px,337.977533px);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 87.5% {transform: translate(319.731759px,340.52448px);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 93.75% {transform: translate(326.058882px,337.977533px);animation-timing-function: cubic-bezier(0.645,0.045,0.355,1)} 100% {transform: translate(319.731759px,340.52448px)}} #naqadaqe-u-claw_tr {animation: naqadaqe-u-claw_tr__tr 8000ms linear infinite normal forwards}@keyframes naqadaqe-u-claw_tr__tr { 0% {transform: rotate(0deg)} 37.5% {transform: rotate(0deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 50% {transform: rotate(-15deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 62.5% {transform: rotate(-15deg);animation-timing-function: cubic-bezier(0.68,-0.55,0.265,1.55)} 75% {transform: rotate(0deg)} 100% {transform: rotate(0deg)}} #naqadaqe-u-upper-claw_tr {animation: naqadaqe-u-upper-claw_tr__tr 8000ms linear infinite normal forwards}@keyframes naqadaqe-u-upper-claw_tr__tr { 0% {transform: translate(413.067979px,414.796686px) rotate(0deg)} 47.5% {transform: translate(413.067979px,414.796686px) rotate(0deg);animation-timing-function: cubic-bezier(0.6,0.04,0.98,0.335)} 52.5% {transform: translate(413.067979px,414.796686px) rotate(5deg);animation-timing-function: cubic-bezier(0.6,0.04,0.98,0.335)} 55% {transform: translate(413.067979px,414.796686px) rotate(0deg);animation-timing-function: cubic-bezier(0.6,0.04,0.98,0.335)} 57.5% {transform: translate(413.067979px,414.796686px) rotate(7deg);animation-timing-function: cubic-bezier(0.6,0.04,0.98,0.335)} 62.5% {transform: translate(413.067979px,414.796686px) rotate(0deg)} 100% {transform: translate(413.067979px,414.796686px) rotate(0deg)}} #naqadaqe-u-bottom-claw_tr {animation: naqadaqe-u-bottom-claw_tr__tr 8000ms linear infinite normal forwards}@keyframes naqadaqe-u-bottom-claw_tr__tr { 0% {transform: translate(433.967648px,422.800263px) rotate(0deg)} 47.5% {transform: translate(433.967648px,422.800263px) rotate(0deg);animation-timing-function: cubic-bezier(0.6,0.04,0.98,0.335)} 52.5% {transform: translate(433.967648px,422.800263px) rotate(-15deg);animation-timing-function: cubic-bezier(0.6,0.04,0.98,0.335)} 55% {transform: translate(433.967648px,422.800263px) rotate(0deg);animation-timing-function: cubic-bezier(0.6,0.04,0.98,0.335)} 57.5% {transform: translate(433.967648px,422.800263px) rotate(-17deg);animation-timing-function: cubic-bezier(0.6,0.04,0.98,0.335)} 62.5% {transform: translate(433.967648px,422.800263px) rotate(0deg)} 100% {transform: translate(433.967648px,422.800263px) rotate(0deg)}} #naqadaqe-u-star-1_ts {animation: naqadaqe-u-star-1_ts__ts 8000ms linear infinite normal forwards}@keyframes naqadaqe-u-star-1_ts__ts { 0% {transform: translate(485.002041px,339.069346px) rotate(202.614341deg) scale(0,0)} 50% {transform: translate(485.002041px,339.069346px) rotate(202.614341deg) scale(0,0);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 55% {transform: translate(485.002041px,339.069346px) rotate(202.614341deg) scale(0.491251,0.491251);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 57.5% {transform: translate(485.002041px,339.069346px) rotate(202.614341deg) scale(0.491251,0.491251);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 70% {transform: translate(485.002041px,339.069346px) rotate(202.614341deg) scale(0,0)} 100% {transform: translate(485.002041px,339.069346px) rotate(202.614341deg) scale(0,0)}} #naqadaqe-u-star-2_ts {animation: naqadaqe-u-star-2_ts__ts 8000ms linear infinite normal forwards}@keyframes naqadaqe-u-star-2_ts__ts { 0% {transform: translate(434.33439px,312.026218px) rotate(164.293859deg) scale(0,0)} 55% {transform: translate(434.33439px,312.026218px) rotate(164.293859deg) scale(0,0);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 60% {transform: translate(434.33439px,312.026218px) rotate(164.293859deg) scale(1,1);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 62.5% {transform: translate(434.33439px,312.026218px) rotate(164.293859deg) scale(1,1);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 75% {transform: translate(434.33439px,312.026218px) rotate(164.293859deg) scale(0,0)} 100% {transform: translate(434.33439px,312.026218px) rotate(164.293859deg) scale(0,0)}}]]></style>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1" />
+  <g
+     id="naqadaqe-u-shell_tr-3"
+     transform="matrix(-1,0,0,1,226.33846,460.3211)">
+    <g
+       id="naqadaqe-u-shell-6"
+       transform="translate(-292.98925,-439.44947)">
+      <path
+         id="naqadaqe-u-shell-base-7"
+         d="m 340.62246,111.09448 c -0.79671,-0.79671 -1.6048,-1.43408 -2.40151,-2.13973 C 325.92888,96.582997 309.80121,91.153996 292.60369,93.327872 L 249.2172,98.825163 C 244.86945,64.646356 223.60871,48.222774 199.69606,51.238886 l -48.25779,6.100513 C 147.43196,39.777661 135.32199,31.434982 121.84623,33.153596 L 67.283061,40.039437 C 52.225265,41.951538 41.560749,58.796238 43.461468,77.678236 l 6.897222,68.368994 c 1.729996,17.08371 16.218715,29.48961 27.349874,30.65053 l 5.850119,57.96625 c 2.936441,29.05711 28.556317,49.68048 46.857857,49.85121 l 5.66801,56.06553 c 1.86658,18.46088 10.56209,34.45197 21.81844,46.24326 2.61776,3.85834 5.36072,7.46629 8.38821,10.49379 50.34061,50.34061 138.66147,57.63619 189.01347,7.28419 50.30647,-50.32923 35.65841,-243.1669 -14.68221,-293.50751 z"
+         fill="#00a96d"
+         stroke-width="11.3816" />
+      <path
+         id="naqadaqe-u-shell-stroke-5"
+         d="m 249.20582,98.825164 c 0.10244,0.819471 0.31869,1.513746 0.40974,2.344596 3.61933,35.89742 -87.47863,179.81717 -116.13738,183.45927 -0.96743,0.1252 -2.06006,-0.0911 -3.0844,-0.0911 l 4.564,45.19615 C 177.00124,307.69944 276.22563,150.92992 283.90818,94.443265 Z M 151.43827,57.339399 c 0.47803,2.071443 0.89915,4.199794 1.13816,6.533012 2.24216,22.102978 -53.857515,110.685609 -71.476161,112.939159 -1.069866,0.13658 -2.230785,0.0114 -3.403085,-0.10243 l 4.017689,39.8582 C 113.35559,192.7116 173.82579,97.18622 185.21872,53.071316 Z"
+         fill="#007a54"
+         stroke-width="11.3816" />
+      <g
+         id="naqadaqe-u-shell-hole-3"
+         transform="matrix(11.3816,0,0,11.3816,502.79,29.5736)">
+        <path
+           id="naqadaqe-u-shell-hole-path-5"
+           d="m -13.160159,13.570167 c 1.870997,2.63247 2.802556,13.933486 -2.077503,18.601562 -4.018053,3.245798 -12.133273,1.982831 -9.402273,-2.833169 2.73,-4.814 10.671776,-18.163393 11.479776,-15.768393 z"
+           fill="#043927" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="naqadaqe-u-leg-1_tr-6"
+     transform="matrix(-0.95708031,0.28982283,0.28982283,0.95708031,287.39064,433.32644)">
+    <path
+       id="naqadaqe-u-leg-1-2"
+       d="m 214.77309,486.95045 v 0 -95.00195 h 19.74432 v 57.17914 c 0,20.89183 -8.83902,37.82281 -19.74432,37.82281 z"
+       transform="translate(-224.64525,-406.56331)"
+       fill="#bbab36"
+       stroke-width="2.10122" />
+  </g>
+  <g
+     id="naqadaqe-u-leg-2_tr-9"
+     transform="matrix(-1,0,0,1,243.49803,436.51163)">
+    <path
+       id="naqadaqe-u-leg-2-1"
+       d="m 264.95753,486.95045 v 0 -95.00195 h 19.74432 v 57.17914 c 0.002,20.89183 -8.83902,37.82281 -19.74432,37.82281 z"
+       transform="translate(-274.82969,-415.64154)"
+       fill="#bbab36"
+       stroke-width="2.10122" />
+  </g>
+  <g
+     id="naqadaqe-u-leg-3_tr-2"
+     transform="matrix(-0.52916059,-0.8485217,-0.8485217,0.52916059,163.6322,423.72645)">
+    <path
+       id="naqadaqe-u-leg-3-7"
+       d="m 315.14348,486.95045 v 0 -95.00195 h 19.74433 v 57.17914 c 0,20.89183 -8.84054,37.82281 -19.74433,37.82281 z"
+       transform="translate(-325.01564,-413.97129)"
+       fill="#bbab36"
+       stroke-width="2.10122" />
+  </g>
+  <g
+     id="naqadaqe-u-body-0"
+     transform="matrix(-1,0,0,1,519.3277,20.87163)">
+    <path
+       id="naqadaqe-u-outer-body-9"
+       d="m 221.91015,348.44159 49.73859,-68.83259 23.52273,-1.73313 c 20.82708,-1.53455 49.50055,-0.7927 77.46647,-0.5258 27.96592,0.2669 22.48398,72.56914 8.21358,93.24037 -12.0993,17.52621 -30.67216,50.11488 -95.03733,51.53112 -27.8796,0.61341 -42.54751,3.29832 -57.06671,-7.7691 -13.91725,-10.6086 -26.30744,-26.73984 -6.83733,-65.91087 z"
+       paint-order="markers stroke fill"
+       fill="#bbab36"
+       stroke-width="3.92986"
+       stroke-linecap="square" />
+    <path
+       id="naqadaqe-u-inner-body-3"
+       d="m 236.26246,351.84652 42.24031,-57.70059 19.97663,-1.4528 c 17.68731,-1.28634 42.03812,-0.66452 65.78808,-0.44081 23.74996,0.22371 19.09456,60.8328 6.97541,78.16096 -10.27528,14.69176 -26.04824,42.00998 -80.71019,43.19715 -23.67663,0.51418 -36.13332,2.76489 -48.4637,-6.51265 -11.81916,-8.89288 -22.34149,-22.41527 -5.80654,-55.25129 z"
+       paint-order="markers stroke fill"
+       fill="#f7d13b"
+       stroke-width="3.31577"
+       stroke-linecap="square" />
+  </g>
+  <g
+     id="naqadaqe-u-eyes-6"
+     transform="matrix(-1,0,0,1,518.65312,23.95541)">
+    <path
+       id="naqadaqe-u-left-eye-0"
+       d="M -14.337329,-7.7334373 17.727124,1.207969 C 17.402428,19.788931 12.81872,35.332697 5.61875e-4,35.332969 -13.271278,35.33325 -18.354546,13.272778 -18.354907,9.3775e-4 c -7.9e-5,-2.90519635 2.47795,-5.57330475 4.017578,-7.73437505 z"
+       transform="translate(292.744,333.302)"
+       style="fill:#1a1a1a;fill-opacity:1"
+       sodipodi:nodetypes="ccaac" />
+    <g
+       id="naqadaqe-u-left-eye-ball_ts-6"
+       transform="matrix(1,0,0,1.069363,292.74426,333.30185)">
+      <path
+         id="naqadaqe-u-left-eye-ball-2"
+         d="M -10.864669,0.70221831 10.097335,6.60631 C 9.1237071,14.602717 6.992849,25.144978 -0.35255892,24.781527 -9.6104848,24.323446 -10.675317,12.09916 -10.864669,0.70221831 Z"
+         transform="translate(-2.63e-4,1.51e-4)"
+         style="fill:#ffffff;fill-opacity:1"
+         sodipodi:nodetypes="ccac" />
+    </g>
+    <path
+       id="naqadaqe-u-right-eye-6"
+       d="m 13.751046,-8.8623435 c 1.796632,2.4027273 4.603676,5.5341153 4.603516,8.86328125 C 18.353926,13.272778 13.270933,35.333199 -9.06875e-4,35.332969 -13.057551,35.332743 -17.898133,19.641472 -18.057547,0.57320337 Z"
+       transform="translate(349.14,333.302)"
+       style="fill:#1a1a1a;fill-opacity:1"
+       sodipodi:nodetypes="caacc" />
+    <g
+       id="naqadaqe-u-right-eye-ball_ts-1"
+       transform="matrix(1,0,0,1.069363,349.13986,333.30182)">
+      <path
+         id="naqadaqe-u-right-eye-ball-8"
+         d="m 11.186595,-0.08680477 c 0.01502,0.02914086 0.02999,0.05836398 0.04492,0.0876690184 C 11.231293,11.941496 8.8406794,23.495821 -0.43495805,23.628785 -7.637608,23.732033 -9.1504489,13.777153 -10.091236,5.5496863 Z"
+         transform="translate(1.38e-4,1.81e-4)"
+         style="fill:#ffffff;fill-opacity:1"
+         sodipodi:nodetypes="ccacc" />
+    </g>
+  </g>
+  <g
+     id="naqadaqe-u-claw_to-7"
+     transform="matrix(-1,0,0,1,191.51293,319.55672)">
+    <g
+       id="naqadaqe-u-claw_tr-9">
+      <g
+         id="naqadaqe-u-claw-2"
+         transform="translate(-328.16963,-335.22875)">
+        <g
+           id="naqadaqe-u-upper-claw_tr-0"
+           transform="translate(413.06798,414.79669)">
+          <path
+             id="naqadaqe-u-upper-claw-2"
+             d="m 403.47411,424.07755 c -8.58791,-9.33024 -12.64112,-19.96507 -11.00813,-28.88309 2.46432,-13.45817 16.9214,-25.20809 36.95017,-30.03111 8.17517,-1.96856 9.36043,-2.08497 18.23915,-1.79128 7.82983,0.25911 10.45717,0.62617 14.97519,2.0928 12.81419,4.15977 20.90703,12.56266 23.7682,24.67889 1.13364,4.80055 0.97636,17.90976 -0.26652,22.20772 l -0.585,2.0231 -2.22391,-4.17248 c -3.32292,-6.23443 -8.04389,-11.67416 -12.11092,-13.95459 -2.91778,-1.63616 -4.32533,-1.99335 -7.66819,-1.94631 -6.63093,0.0934 -10.20609,2.07943 -25.04558,13.91368 -10.89756,8.69062 -18.68028,13.75017 -24.70053,16.05789 -7.87208,3.01761 -7.35784,3.02735 -10.324,-0.1951 z"
+             transform="translate(-413.06798,-414.79669)"
+             paint-order="markers stroke fill"
+             fill="#f7d13b"
+             stroke-width="0.564998"
+             stroke-linecap="square" />
+        </g>
+        <g
+           id="naqadaqe-u-bottom-claw_tr-3"
+           transform="translate(433.96765,422.80026)">
+          <path
+             id="naqadaqe-u-bottom-claw-7"
+             d="m 438.4485,414.02235 c -6.40891,5.19939 -13.57166,10.60333 -21.82075,14.2076 17.39797,19.46602 54.64763,27.96431 53.35947,-5.75331 -15.43343,16.46349 -20.94291,-1.61683 -31.53893,-8.4542 z"
+             transform="translate(-433.96764,-422.80026)"
+             fill="#bbab36"
+             stroke-width="0.211792" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="naqadaqe-u-star-2_ts-2"
+     transform="matrix(0,0,0,0,431.69412,308.89785)">
+    <polygon
+       id="naqadaqe-u-star-2-2"
+       points="0,-18.356017 5.394698,-7.425165 17.45761,-5.672321 8.728805,2.836161 10.789396,14.85033 0,9.178009 -10.789396,14.85033 -8.728805,2.836161 -17.45761,-5.672321 -5.394698,-7.425165 "
+       fill="#f9da60"
+       stroke-width="0" />
+  </g>
+  <g
+     id="g2821-8"
+     transform="matrix(-0.67037707,-0.74202061,-0.74202061,0.67037707,421.07232,303.63101)">
+    <g
+       id="g2819-9">
+      <g
+         id="g2817-7"
+         transform="translate(-328.16963,-335.22875)">
+        <g
+           id="g2811-3"
+           transform="translate(413.06798,414.79669)">
+          <path
+             id="path2809-6"
+             d="m 403.47411,424.07755 c -8.58791,-9.33024 -12.64112,-19.96507 -11.00813,-28.88309 2.46432,-13.45817 16.9214,-25.20809 36.95017,-30.03111 8.17517,-1.96856 9.36043,-2.08497 18.23915,-1.79128 7.82983,0.25911 10.45717,0.62617 14.97519,2.0928 12.81419,4.15977 20.90703,12.56266 23.7682,24.67889 1.13364,4.80055 0.97636,17.90976 -0.26652,22.20772 l -0.585,2.0231 -2.22391,-4.17248 c -3.32292,-6.23443 -8.04389,-11.67416 -12.11092,-13.95459 -2.91778,-1.63616 -4.32533,-1.99335 -7.66819,-1.94631 -6.63093,0.0934 -10.20609,2.07943 -25.04558,13.91368 -10.89756,8.69062 -18.68028,13.75017 -24.70053,16.05789 -7.87208,3.01761 -7.35784,3.02735 -10.324,-0.1951 z"
+             transform="translate(-413.06798,-414.79669)"
+             paint-order="markers stroke fill"
+             fill="#f7d13b"
+             stroke-width="0.564998"
+             stroke-linecap="square" />
+        </g>
+        <g
+           id="g2815-1"
+           transform="translate(433.96765,422.80026)">
+          <path
+             id="path2813-2"
+             d="m 438.4485,414.02235 c -6.40891,5.19939 -13.57166,10.60333 -21.82075,14.2076 17.39797,19.46602 54.64763,27.96431 53.35947,-5.75331 -15.43343,16.46349 -20.94291,-1.61683 -31.53893,-8.4542 z"
+             transform="translate(-433.96764,-422.80026)"
+             fill="#bbab36"
+             stroke-width="0.211792" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

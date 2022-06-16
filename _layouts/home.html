@@ -1,0 +1,273 @@
+---
+layout: "default"
+---
+
+
+<!-- 
+  To Swiper Homepage 
+-->
+<div class="swiper mySwiper">
+      
+  <div class="swiper-wrapper">
+        
+
+
+    <!-- 
+      TO HOME 
+    -->
+    <div data-hash="" class="swiper-slide swiper-lazy">
+
+      <div class="label">
+        <h4>Welcome to</h4>
+      </div>
+      
+      {{ content }}
+         
+      <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+    </div>
+    
+
+
+    <!-- 
+      TO BUILD 
+    -->
+    <div data-hash="build" class="swiper-slide swiper-lazy">
+      
+      <!-- 
+        Categories Label 
+      -->
+      <div class="label">
+        <h4>Build</h4>
+        <p>If programming is like Magic, then logic is the Spell.</p>
+      </div>
+
+      <!-- 
+        Blog Tiles 
+      -->
+      <div class="container">
+        {% for post in site.categories.build %}
+          <li class="tile">
+            <!-- Post Url -->
+            <a href="{{ post.url }}">
+              <!-- Post Image -->
+              <div class="photo">
+                <img class="thumbnail" src="{{ post.image }}"/>
+              </div>
+              <!-- Post Text -->
+              <div class="text">
+                <h4 class="date">{{ post.date }}</h4>
+                <h3 class="title">{{ post.title }}</h3>
+                <p class="excerpt">{{ post.excerpt }}</p>
+              </div>
+            </a>
+          </li>
+        {% endfor %}
+      </div> 
+
+      <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+    </div>
+
+
+
+    <!-- 
+      TO WRITE 
+    -->
+    <div data-hash="write" class="swiper-slide swiper-lazy">
+      
+      <!-- 
+        Categories Label 
+      -->
+      <div class="label">
+        <h4>Write</h4>
+        <p>Language is perhaps the deepest bond that Humans share outside of blood.</p>
+      </div>
+
+      <!-- 
+        Blog Tiles 
+      -->
+      <div class="container">
+        {% for post in site.categories.write %}
+          <li class="tile">
+            <!-- Post Url -->
+            <a href="{{ post.url }}">
+              <!-- Post Image -->
+              <div class="photo">
+                <img class="thumbnail" src="{{ post.image }}"/>
+              </div>
+              <!-- Post Text -->
+              <div class="text">
+                <h4 class="date">{{ post.date }}</h4>
+                <h3 class="title">{{ post.title }}</h3>
+                <p class="excerpt">{{ post.excerpt }}</p>
+              </div>
+            </a>
+          </li>
+        {% endfor %}
+      </div> 
+
+      <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+    </div>
+
+
+
+    <!-- 
+      TO PLAY 
+    -->
+    <div data-hash="play" class="swiper-slide swiper-lazy">
+      
+      <!-- 
+        Categories Label 
+      -->
+      <div class="label">
+        <h4>Play</h4>
+        <p>Learning through Play, Playing through Art.</p>
+      </div>
+
+      <!-- 
+        Blog Tiles 
+      -->
+      <div class="container">
+        {% for post in site.categories.play %}
+          <li class="tile">
+            <!-- Post Url -->
+            <a href="{{ post.url }}">
+              <!-- Post Image -->
+              <div class="photo">
+                <img class="thumbnail" src="{{ post.image }}"/>
+              </div>
+              <!-- Post Text -->
+              <div class="text">
+                <h4 class="date">{{ post.date }}</h4>
+                <h3 class="title">{{ post.title }}</h3>
+                <p class="excerpt">{{ post.excerpt }}</p>
+              </div>
+            </a>
+          </li>
+        {% endfor %}
+      </div> 
+
+      <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+    </div>
+
+
+
+    <!-- 
+      TO MAKE
+    -->
+    <div data-hash="make" class="swiper-slide swiper-lazy">
+      
+      <!-- 
+        Categories Label 
+      -->
+      <div class="label">
+        <h4>Make</h4>
+        <p>Every masterpiece takes time to blossom.</p>
+      </div>
+
+      <!-- 
+        Blog Tiles 
+      -->
+      <div class="container">
+        {% for post in site.categories.make %}
+          <li class="tile">
+            <!-- Post Url -->
+            <a href="{{ post.url }}">
+              <!-- Post Image -->
+              <div class="photo">
+                <img class="thumbnail" src="{{ post.image }}"/>
+              </div>
+              <!-- Post Text -->
+              <div class="text">
+                <h4 class="date">{{ post.date }}</h4>
+                <h3 class="title">{{ post.title }}</h3>
+                <p class="excerpt">{{ post.excerpt }}</p>
+              </div>
+            </a>
+          </li>
+        {% endfor %}
+      </div> 
+
+      <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+    </div>
+
+ 
+
+  </div> <!-- Wrapper End -->
+      
+  
+
+  <!-- 
+    NavBar 
+  -->
+  <div class="navbar">
+
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-pagination"></div>
+
+  </div>     
+         
+
+</div> <!-- Swiper End -->
+
+
+
+<!-- 
+  Swiper JS 
+-->
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+<script>
+
+  // Initialize Swiper 
+
+  var icon = [
+    '<i class="fa-solid fa-fire-flame-curved fa-rotate-by" style="--fa-rotate-angle: -70deg;"></i>', 
+    '<i class="fa-solid fa-window-maximize"></i>', 
+    '<i class="fa-solid fa-pen"></i>', 
+    '<i class="fa-solid fa-play"></i>', 
+    '<i class="fa-solid fa-lightbulb"></i>'
+  ]
+
+  var swiper = new Swiper(".mySwiper", {
+    autoHeight: true,
+    slidesPerView: 1,
+    spaceBetween: 20,
+    loop: true,
+    lazy: true,
+    keyboard: {
+      enabled: true,
+    },
+    //mousewheel: true,
+    hashNavigation: {
+      watchState: true,
+    },
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true,
+        renderBullet: function (index, className) {
+          return '<span class="' + className + '">' + (icon[index]) + '</span>';
+        },
+    },
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+    },
+  });
+
+ 
+  //Scroll Effect
+
+  const nav = document.querySelector('.navbar');
+
+  window.onscroll = () => {
+      if (window.scrollY > 20) {
+          nav.classList.add('scrolled');
+      } else {
+          nav.classList.remove('scrolled');
+      }
+  };
+ 
+
+</script>
+

@@ -1,0 +1,78 @@
+<!-- 
+  Facebook 
+-->
+<a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+   onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+   title="Share on Facebook" >
+   <i class="fa-brands fa-facebook-f icon" id="Facebook"></i>
+</a>
+
+<!-- 
+  Twitter 
+-->
+<a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+   onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+   title="Share on Twitter" >
+   <i class="fa-brands fa-twitter icon" id="Twitter"></i>
+</a>
+
+<!-- 
+  Pinterest
+-->
+<a href="https://www.pinterest.com/pin/create/button/?url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+   onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;"
+   title="Share on Pinterest" >
+   <i class="fa-brands fa-pinterest-p icon" id="Pinterest"></i>
+</a>
+
+<!-- 
+  Tumblr 
+-->
+<a href="https://www.tumblr.com/share/link?url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+   onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;"
+   title="Share on Tumblr" >
+   <i class="fa-brands fa-tumblr icon" id="Tumblr"></i>
+</a>
+
+<!-- 
+  Linkedin 
+-->
+<a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title={{ page.title }}&summary={{ page.description }}&source={{ site.title }}"
+   onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+   title="Share on LinkedIn" >
+   <i class="fa-brands fa-linkedin-in icon" id="Linkedin"></i>
+</a>
+
+<!-- 
+  Reddit 
+-->
+<a href="http://www.reddit.com/submit?url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+   onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;"
+   title="Share on Reddit" >
+   <i class="fa-brands fa-reddit-alien icon" id="Reddit"></i>
+</a>
+
+<!-- 
+  WhatsApp 
+-->
+<a href="https://api.whatsapp.com/send?text={{ site.url }}{{ site.baseurl }}{{ page.url }}"
+   target="_blank" title="Share on WhatsApp" >
+   <i class="fa-brands fa-whatsapp icon" id="WhatsApp"></i>
+</a>
+
+<!-- 
+  Telegram 
+-->
+<a href="https://telegram.me/share/url?url={{ site.url }}{{ site.baseurl }}{{ page.url }}&text={{ page.title }}"
+   target="_blank" title="Share on Telegram" >
+   <i class="fa-brands fa-telegram icon" id="Telegram"></i>
+</a>
+
+<!-- 
+  Email 
+-->
+<a href="mailto:?subject={{ page.title }}&amp;body=Check out this site {{ site.url }}{{ site.baseurl }}{{ page.url }}"
+   title="Share via Email" >
+   <i class="fa-solid fa-envelope icon" id="Email"></i>
+</a>
+

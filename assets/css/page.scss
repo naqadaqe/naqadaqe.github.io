@@ -1,0 +1,223 @@
+---
+
+---
+
+@import "var";
+
+/**
+ * TopNav Styling
+ */
+
+.topnav {
+  display: flex;
+  width: 100%;
+  height: 3rem;
+  padding: 0 1.5% 0;
+  position: fixed;
+  top: 0px;
+  justify-content: space-between;
+  align-items: center;
+  background-color: $none;
+  transition: 0.3s;
+  z-index: 10;
+  a {
+    text-decoration: none;
+    position: relative;
+    font-size: 1.121rem;
+    padding: 10px;
+    height: 100%;
+    color: $sub-color;
+    z-index: 15;
+    cursor: pointer;
+    &:hover {
+      color: $power-color;
+      text-shadow: 0px 0px 8px $soft-color;
+    }
+  }
+}
+
+.topleft {
+  a {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  h6 {
+    margin-left: 10px;
+  }
+}
+
+.topright {
+  position: relative;
+  font-size: 1.121rem;
+  padding: 10px;
+  height: 100%;
+  color: $sub-color;
+  cursor: pointer;
+  input {
+    position: absolute;
+    width: 2rem;
+    height: 2rem;
+    z-index: 10;
+    opacity: 0;
+    cursor: pointer;
+    &:hover {
+      ~ {
+        .share-icon {
+          color: $power-color;
+          text-shadow: 0px 0px 8px $soft-color;
+          transition: all .3s ease-in-out;
+        }
+      }  
+    }
+    &:checked {
+      ~ {
+        .share-icon {
+          color: $power-color;
+          text-shadow: 0px 0px 8px $soft-color;
+          transition: all .3s ease-in-out;
+        }
+        .share-items-bar {
+          visibility: visible;
+          transform: translateY(0rem);
+          .share-items {
+            #Facebook {
+              opacity: 1;
+              transform: rotate(0deg);
+              transition-delay: .1s;
+              color: #3b5998; /* Facebook color */
+            }
+            #Twitter {
+              opacity: 1;
+              transform: rotate(0deg);
+              transition-delay: .15s;
+              color: #55acee; /* Twitter color */
+            }
+            #Pinterest {
+              opacity: 1;
+              transform: rotate(0deg);
+              transition-delay: .2s;
+              color: #cb2027; /* Pinterest color */
+            }
+            #Tumblr {
+              opacity: 1;
+              transform: rotate(0deg);
+              transition-delay: .25s;
+              color: #32506d; /* Tumblr color */
+            }
+            #Linkedin {
+              opacity: 1;
+              transform: rotate(0deg);
+              transition-delay: .3s;
+              color: #007bb5; /* Linkedin color */
+            }
+            #Reddit {
+              opacity: 1;
+              transform: rotate(0deg);
+              transition-delay: .35s;
+              color: #ff4500; /* Reddit color */
+            }
+            #WhatsApp {
+              opacity: 1;
+              font-size: 1.414rem;
+              transform: rotate(0deg);
+              transition-delay: .4s;
+              color: #25d366; /* WhatsApp color */
+            }
+            #Telegram {
+              opacity: 1;
+              font-size: 1.414rem;
+              transform: rotate(0deg);
+              transition-delay: .45s;
+              color: #0088cc; /* Telegram color */
+            }
+            #Email {
+              opacity: 1;
+              transform: rotate(0deg);
+              transition-delay: .5s;
+              color: #dd4b39; /* Email color */
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.share-items-bar {
+  position: fixed;
+  top: 3rem;
+  right: 1.5%;
+  width: 2rem;
+  height: auto;
+  z-index: 20;
+  background: $none;
+  visibility: hidden;
+  transform: translateY(-1.414rem);
+  transition: all .4s ease;
+  .share-items {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .icon {
+      width: 2rem;
+      height: 2rem;
+      font-size: 1.121rem;
+      line-height: 2rem;
+      text-align: center;
+      cursor: pointer;
+      background: #fafafa;
+      border-radius: 50%;
+      box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+      opacity: 0;
+      transform: rotate(180deg);
+      transition: all .4s ease;
+    }
+  }
+}
+
+
+
+/**
+ * Hero Styling
+ */
+
+.hero {
+  position: relative;
+  top: 0;
+  width: 100%;
+  height: 55vh;
+  background: rgb(50, 50, 50);
+  background: url(/assets/images/poster/default.png) repeat-y 50% 0% fixed;
+  background-size: 100%;
+  overflow: hidden;
+  transition: 0.3s;
+  .hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
+
+
+
+/**
+ * Content Styling
+ */
+
+.content {
+  position: relative;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 1em;
+  .content-text {
+    margin: 0 auto;
+    padding: 0 0 13rem;
+    max-width: 700px;
+    width: 100%;
+  }
+}
+

@@ -1,0 +1,81 @@
+---
+
+---
+
+@import "var";
+
+/**
+ * Swiper Styling
+ */
+
+.swiper {
+	width: 100%;
+}
+
+.swiper-slide {
+	min-height: 100vh;
+	background: $none;
+	padding: 100px 2rem 100px;
+}
+
+
+
+/**
+ * Navbar
+ */
+
+.navbar {
+  	width: 100%; 
+	height: 50px;
+  	top: 0px;
+  	position: fixed; 
+  	background-color: $none;
+	transition: 0.3s;
+	z-index: 15;
+}
+
+.scrolled{
+  	background-color: $white;
+  	transition: 0.3s;
+	box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+
+
+/**
+ * Navbar Button
+ */
+
+.swiper-button-next, .swiper-button-prev {
+	color: $sub-color;
+	top: 25px;
+	z-index: 15;
+	--swiper-navigation-size: 30px;
+}
+
+.swiper-pagination {
+	top: 5px;
+	padding: 0px 15% 0px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.swiper-pagination-bullet {
+	position: relative;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	font-size: 1.121rem;
+	color: $sub-color;
+	opacity: 1;
+	background: $none;
+	z-index: 10;
+}
+
+.swiper-pagination-bullet-active {
+	color: $power-color;
+	text-shadow: 0px 0px 8px $soft-color;
+	background: $none;
+}
+
