@@ -11,7 +11,7 @@ description: >- # My Site Description
   Explore Naqadaqe Portfolio Now!
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.naqadaqe.github.io" # the base hostname & protocol for your site
+url: "https://naqadaqe.github.io/" # the base hostname & protocol for your site
 
 # Social Links
 email: naqadaqe@gmail.com
