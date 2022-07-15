@@ -4,7 +4,7 @@ title: "Who I Am"
 date: 
 separator: 
 duration:
-image: /assets/images/poster/about.png
+hero: /assets/images/poster/about.png
 permalink: /about/
 ---
 
