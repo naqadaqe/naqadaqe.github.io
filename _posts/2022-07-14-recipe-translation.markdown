@@ -9,7 +9,11 @@ image: /assets/posts/write/recipe-translation/image.png
 ---
 
 
+<!---
+    Post Opening
+-->
 <br/>
+
 When comes to cooking, <br/> those vocabulary and terms vary with the region, and often ingredients are called completely different things in different areas.
 
 ###### Let us dive into Malaysia cuisine to see how Malay, English and Chinese speak their recipes.
@@ -32,6 +36,10 @@ Below are some Malaysia typical cuisine, and you will also see them in 3 differe
 
 <br/>
 
+
+<!---
+    1st Section
+-->
 ### Nasi Lemak
 
 This is the most popular food in Malaysia.
@@ -49,6 +57,10 @@ You can [download it here](/assets/posts/write/recipe-translation/translate-nasi
 
 <br/>
 
+
+<!---
+    2nd Section
+-->
 ### Roti Canai
 
 Going back to when I was studying abroad, <br/> I realized how much I missed the taste of **"Roti Canai"**.
@@ -65,6 +77,10 @@ But it is undeniable the best roti is in our Mamak stall ~ 😋
 
 <br/>
 
+
+<!---
+    3rd Section
+-->
 ### Baozi
 
 The unforgettable taste from my childhood memory.
@@ -88,6 +104,10 @@ Some common flavors are:
 
 <br/>
 
+
+<!---
+    4th Section
+-->
 ### Curry
 
 In Malaysia, everyone loved it no matter what race or skin colour.
@@ -107,6 +127,10 @@ You can see how much people loves [curry](/assets/posts/write/recipe-translation
 
 <br/>
 
+
+<!---
+    Post Closing
+-->
 > ###### To taste all the cuisine in the world, 
 > ##### You must learn to read recipes.
 > ###### To spread your cuisine to the world, 
@@ -121,8 +145,17 @@ So why not let the food satisfy our hunger, and also let it tell the story of ou
 
 <br/><br/>
 
-##### If you like the recipes, just <a href="../assets/posts/write/recipe-translation/" target="_blank" onclick="window.open('../assets/posts/write/recipe-translation/translate-nasilemak.pdf'); window.open('../assets/posts/write/recipe-translation/translate-roticanai.pdf'); window.open('../assets/posts/write/recipe-translation/translate-baozi.pdf'); window.open('../assets/posts/write/recipe-translation/translate-curry.pdf');">download them all</a>.
+
+##### If you like the recipes, just <a href="../assets/posts/write/recipe-translation/translate-curry.pdf" target="_blank" onclick="popupAlert(); window.open('../assets/posts/write/recipe-translation/translate-nasilemak.pdf'); window.open('../assets/posts/write/recipe-translation/translate-roticanai.pdf'); window.open('../assets/posts/write/recipe-translation/translate-baozi.pdf');">download them all</a>.
 
 ##### And if you need my translation service, welcome to [contact me]({{ site.url }}/contact).
+
+
+<script>
+    function popupAlert() {
+        alert("Pop-up blocked:\nPlease allow pop-ups and redirects to all 4 recipes.");
+    }
+</script>
+
 
 
