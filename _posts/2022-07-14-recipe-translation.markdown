@@ -121,9 +121,8 @@ So why not let the food satisfy our hunger, and also let it tell the story of ou
 
 <br/><br/>
 
-##### If you like the recipes, just [download them](/assets/posts/write/recipe-translation/){: target="_blank"}.
+##### If you like the recipes, just <a href="../assets/posts/write/recipe-translation/" target="_blank" onclick="window.open('../assets/posts/write/recipe-translation/translate-nasilemak.pdf'); window.open('../assets/posts/write/recipe-translation/translate-roticanai.pdf'); window.open('../assets/posts/write/recipe-translation/translate-baozi.pdf'); window.open('../assets/posts/write/recipe-translation/translate-curry.pdf');">download them all</a>.
 
 ##### And if you need my translation service, welcome to [contact me]({{ site.url }}/contact).
-
 
 
