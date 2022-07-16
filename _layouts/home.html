@@ -55,7 +55,7 @@ layout: "default"
               </div>
               <!-- Post Text -->
               <div class="text">
-                <h4 class="date">{{ post.date }}</h4>
+                <h4 class="date">{{ post.date | date_to_long_string: "ordinal", "US" }}</h4>
                 <h3 class="title">{{ post.title }}</h3>
                 <p class="excerpt">{{ post.excerpt }}</p>
               </div>
@@ -96,7 +96,7 @@ layout: "default"
               </div>
               <!-- Post Text -->
               <div class="text">
-                <h4 class="date">{{ post.date }}</h4>
+                <h4 class="date">{{ post.date | date_to_long_string: "ordinal", "US" }}</h4>
                 <h3 class="title">{{ post.title }}</h3>
                 <p class="excerpt">{{ post.excerpt }}</p>
               </div>
@@ -137,7 +137,7 @@ layout: "default"
               </div>
               <!-- Post Text -->
               <div class="text">
-                <h4 class="date">{{ post.date }}</h4>
+                <h4 class="date">{{ post.date | date_to_long_string: "ordinal", "US" }}</h4>
                 <h3 class="title">{{ post.title }}</h3>
                 <p class="excerpt">{{ post.excerpt }}</p>
               </div>
@@ -178,7 +178,7 @@ layout: "default"
               </div>
               <!-- Post Text -->
               <div class="text">
-                <h4 class="date">{{ post.date }}</h4>
+                <h4 class="date">{{ post.date | date_to_long_string: "ordinal", "US" }}</h4>
                 <h3 class="title">{{ post.title }}</h3>
                 <p class="excerpt">{{ post.excerpt }}</p>
               </div>

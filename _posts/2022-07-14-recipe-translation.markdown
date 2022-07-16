@@ -2,17 +2,11 @@
 title:  "Recipe in Translation"
 categories: write
 icon: "fa-pen"
-date:   2022-07-15 08:30:05 +0800
-duration: 7 mins read
+date:   2022-07-15 21:00:00 +0800
+duration: 5 mins read
 hero: /assets/posts/write/recipe-translation/hero.png
 image: /assets/posts/write/recipe-translation/image.png
 ---
-
-
-<!---
-    Post Opening
--->
-<br/>
 
 When comes to cooking, <br/> those vocabulary and terms vary with the region, and often ingredients are called completely different things in different areas.
 
@@ -22,9 +16,13 @@ When comes to cooking, <br/> those vocabulary and terms vary with the region, an
 
 ![Post's Image]({{ site.url }}{{ page.image }}){: .post-img}
 
-Read a recipe is not a big deal. 😅
 
-But translating them are really _hard and tedious_.
+<!---
+    Post Opening
+-->
+##### Read a recipe is not a big deal. 😅
+
+**But translating them are really _hard and tedious_.**
 
 You will often see a lot of challenge videos from YouTube that translate a recipe into several different languages and then translate it back to the original language.
 Most of the meaning are incorrect and some words are weird.
@@ -34,7 +32,7 @@ Therefore, **translation is extremely important** !
 
 Below are some Malaysia typical cuisine, and you will also see them in 3 different languages (English, Malay and Chinese).
 
-<br/>
+<br/><br/>
 
 
 <!---
@@ -44,8 +42,8 @@ Below are some Malaysia typical cuisine, and you will also see them in 3 differe
 
 This is the most popular food in Malaysia.
 
-If you haven't eaten it, you'll embarrassed to say that you've been to here~
-We often see many morning markets or restaurants that sell nasi lemak the triangular package. Although the size is that big, the taste makes everyone unforgetable.
+If you haven't eaten it, you'll embarrassed to say that you've been to here.
+We often see many morning markets or restaurants that sell nasi lemak in triangular package. Although the size isn't that big, the taste makes everyone unforgetable.
 
 I can be the best spokesperson for nasi lemak!
 
@@ -55,7 +53,7 @@ You can [download it here](/assets/posts/write/recipe-translation/translate-nasi
 
 <iframe src="/assets/posts/write/recipe-translation/translate-nasilemak.pdf#view=fitH&page=2" width="700" height="500" frameborder="0"></iframe>
 
-<br/>
+<br/><br/>
 
 
 <!---
@@ -75,7 +73,7 @@ But it is undeniable the best roti is in our Mamak stall ~ 😋
 
 <iframe src="/assets/posts/write/recipe-translation/translate-roticanai.pdf#view=fitH" width="700" height="500" frameborder="0"></iframe>
 
-<br/>
+<br/><br/>
 
 
 <!---
@@ -87,14 +85,14 @@ The unforgettable taste from my childhood memory.
 
 You definitely able to find it in any Chinatown nearby your place.
 
-Chinese buns have more flavors than you can ever imagine. From sweet to savory, one of these flavors is sure to hit your taste buds. 
+Chinese buns have more flavors than you can ever imagine. From sweet to salty, one of these flavors is sure to hit your taste buds. 
 Some common flavors are:
 - Red beans
 - Peanut
 - Lotus seed
 - Kaya
 - Cabbage
-- Char Sie
+- Char Siew (pork)
 - your [Baozi recipe](/assets/posts/write/recipe-translation/translate-baozi.pdf){: target="_blank"}
 - and many more...
 
@@ -102,7 +100,7 @@ Some common flavors are:
 
 <iframe src="/assets/posts/write/recipe-translation/translate-baozi.pdf#view=fitH&page=3" width="700" height="500" frameborder="0"></iframe>
 
-<br/>
+<br/><br/>
 
 
 <!---
@@ -125,7 +123,7 @@ You can see how much people loves [curry](/assets/posts/write/recipe-translation
 
 <iframe src="/assets/posts/write/recipe-translation/translate-curry.pdf#view=fitH" width="700" height="500" frameborder="0"></iframe>
 
-<br/>
+<br/><br/>
 
 
 <!---
