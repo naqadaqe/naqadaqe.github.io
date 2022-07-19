@@ -10,5 +10,5 @@ title: "What I Do"
 
 {% include typewriter.html %}
 
-&#8249; Swipe to see what I do &#8250;
+_**Swipe** to see What I Do &#8614;_
 

@@ -61,6 +61,7 @@
       background-color: #F2E279; /* light gold */
       /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset; */
       box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+      z-index: 100;
     }
     
     .fab.active ul {
@@ -136,8 +137,47 @@
       100%   {transform: rotate(0deg);}
     }
    
-  </style>
+    /* The Hint Box & Animation */
 
+    .hint-box {
+      position: absolute;
+      direction: ltr;
+      letter-spacing: 3px;
+      bottom: 6.5rem;
+      width: 12rem;
+      padding: 20px;
+      border-radius: 20px;
+      opacity: 0;
+      visibility: hidden;
+      background-color: #F4E68A; /* light gold */
+      box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+      transition: 0.3s;
+      animation: hint 500ms ease 20 alternate;
+      animation-delay: 1s;
+    }
+
+    @keyframes hint {
+	    from { opacity: 1; visibility: visible;}	
+	    to { opacity: 0; visibility: hidden;}
+    }
+   
+    .roll-in {
+      animation: roll-in 1s 1;
+      animation-timing-function: cubic-bezier(0.39,0.57,0.56,1); 
+    }
+
+    @keyframes roll-in {
+      0% {
+        opacity: 1;
+        transform: translateX(-100vw) rotate(-720deg);
+      }
+      100% {
+        opacity: 1;
+        transform: translateX(0px) rotate(0deg);
+      }
+    }
+
+  </style>
 
   <body>
 
@@ -145,7 +185,7 @@
     <!-- 
       FAB html 
     -->
-    <div class="fab" onclick="fabToggle();">
+    <div class="fab roll-in" onclick="fabToggle();">
 
       <span>
         {% include claw.svg %}
@@ -162,6 +202,10 @@
             <i class="fa-solid fa-globe fa-fade"></i>
             Where ?</a></li>
       </ul>
+
+      <div class="hint-box">
+        <h6>Click Menu &#8628;</h6>
+      </div>
 
     </div>
 
