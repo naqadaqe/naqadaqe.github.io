@@ -110,6 +110,14 @@ li {
   	width: 80vw;
   	height: 45vw;
 }
+.shade-box {
+	margin: 3rem 1rem;
+	padding: 2rem 1rem 2rem 0rem;
+	width: 90%;
+	border-radius: 15px;
+	background: rgba(196, 244, 207, 0.4);
+	box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
 
 #meme-skills {
 	display: flex;
@@ -268,8 +276,11 @@ h6 {
 small {
 	font-size: .707em;
 }
-img, canvas, iframe, video, svg, select, textarea {
+img, canvas, iframe, audio, video, svg, select, textarea {
 	max-width: 100%;
+}
+audio {
+	width: 95%;
 }
 #avatar {
 	max-width: 12rem;
