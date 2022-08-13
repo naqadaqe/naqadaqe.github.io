@@ -19,7 +19,7 @@
 	cursor: pointer;
 	text-align: center;
 	margin-bottom: 6em;
-	max-width: 24em;
+	max-width: 26em;
 	padding: 1em;
 	transition: all .3s ease;
 
@@ -65,7 +65,8 @@
 
 .photo {
 	background: $none;
-	height: 14em;
+	max-width: 24em;
+	max-height: 13.5em;
 	margin-bottom: 1em;
 	border-radius: 15px;
 	overflow: hidden;
