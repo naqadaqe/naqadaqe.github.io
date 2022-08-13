@@ -79,9 +79,9 @@ By taking advantage of this, you can make your voice more receptive to the audie
 
 <br/>
 
-##### [How to get Your Unique Brand's Voice](https://www.youtube.com/embed/LosW0ihiH7w){: target="_blank" style="text-decoration: none;"}
+##### [How to get Your Unique Brand's Voice](https://youtu.be/bI4bLbkvx0o){: target="_blank" style="text-decoration: none;"}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LosW0ihiH7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bI4bLbkvx0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/><br/>
 
@@ -103,9 +103,9 @@ But don't overdo it, what matters is that customers satisfied.
 
 <br/>
 
-##### [How to be Persuasive in Voice Commercial](https://www.youtube.com/embed/LosW0ihiH7w){: target="_blank" style="text-decoration: none;"}
+##### [How to be Persuasive in Voice Commercial](https://youtu.be/aXArz6zoHFI){: target="_blank" style="text-decoration: none;"}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LosW0ihiH7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aXArz6zoHFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/><br/>
 
@@ -131,9 +131,9 @@ _(that's also why YouTube tutorial can easily replace college professors 😂)_
 
 <br/>
 
-##### [How to educate your audience with voice](https://www.youtube.com/embed/LosW0ihiH7w){: target="_blank" style="text-decoration: none;"}
+##### [How to Educate your Audience with Voice](https://youtu.be/zaev2WxLSm8){: target="_blank" style="text-decoration: none;"}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LosW0ihiH7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zaev2WxLSm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/><br/>
 
@@ -150,9 +150,20 @@ Your brand not only represents you and the mission you give it, but also the spi
 <br/><br/>
 
 
-##### If you like my article, just <a href="#" target="_blank">share it</a> to any favorite platform.
+##### If you like my article, just <a href="#bottom" onclick="setTimeout(check, 1000)">share it</a> to any favorite platform.
 
 ##### And if you are interested to my voice, welcome to [contact me]({{ site.url }}/contact), let's find out your brand's voice potential.
+
+
+<script>
+    function check() {
+        document.getElementById("Nav").style.top = "0";
+        document.getElementById("Nav").style.backgroundColor = "#C4F4CF";
+        document.getElementById("Nav").style.boxShadow = "rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px";
+
+        document.getElementById("share-checked").checked = true;
+    }
+</script>
 
 
 
