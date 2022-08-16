@@ -8,10 +8,10 @@ hero: /assets/posts/build/hola-project/hero.png
 image: /assets/posts/build/hola-project/image.png
 ---
 
-是否在考虑自己的事业来个科技转型？
-发现想要制作个APP太贵，时间太长？
+Are you considering a digital transformation? <br/>Do you think that it is too expensive and time-consuming to make an app?
 
-###### 不要想太多，你要的其实很简单，也或许你已经有了你想要的。
+##### Don't overthink the process! 
+###### What you want is simple, or maybe you already have what you want.
 
 <br/>
 
@@ -25,11 +25,15 @@ image: /assets/posts/build/hola-project/image.png
 >
 > -- Mark Twain
 
-To get started, you just need to break your complex idea into small and manageable tasks.
-以下我制作了一下几个实用的APP。毕竟是个好的开头，我把它称为HOLA!Project，可作为参考。
-###### 这些绝对不是什么模拟，而是实际运用的应用程式。
+To get started on an app, <br/>you only need to break down your complex idea into small and manageable tasks.
 
-Let's start one by one.
+Below I have made 4 sample apps. <br/>It's a good start, so I called it the **HOLA! Project**.
+
+_These are not just prototypes but apps with actual functions._
+
+👇
+
+**Let's go through these apps one by one.**
 
 <br/><br/>
 
@@ -39,18 +43,23 @@ Let's start one by one.
 -->
 ### H for HeroBuddy
 
-市面上有太多的招募人才网，多到简直吓人，就像世界的失业率一样...
+There are many hiring apps and websites on the market. 
 
-这是个不一样的人才网，是专门属于英雄的。
-你可以从中寻找你喜欢的英雄，让他们到你的派对里表演或是当你的一日好友～
+_How crazy is that!_ There are as many as the current unemployment rate...🙃
 
-如果你是一名英雄，你也可以到这里来宣传你的各种能力。
+The difference is that this is a recruiting app for **hiring talented heroes**!
 
-我们是孩子的英雄！也是孩子的好伙伴！
+You can find your favourite hero here, and let them _perform at your party_ or _be your one-day-friend_. 🙆
+If you're a talented hero, you can also come to this place to advertise your various powers and abilities.
 
-欢迎来寻找你的[英雄伙伴](){: target="_blank"}吧～
+_**We are children's heroes and also their best buddies!**_
 
-<iframe src="/assets/posts/write/recipe-in-translation/translate-nasilemak.pdf#view=fitH&page=2" width="700" height="500" frameborder="0"></iframe>
+##### Welcome to search for your [HeroBuddy](){: target="_blank"} 🔍
+
+<br/>
+
+![sample app](/assets/posts/build/hola-project/pending.png)
+
 
 <br/><br/>
 
@@ -60,17 +69,21 @@ Let's start one by one.
 -->
 ### O for OutWorkLess
 
-还在熬夜追梦吗？还想要偷偷创业却累得吃不好睡不着吗？
+Are you staying up late to chase your dreams? <br/>Planning to start a business, but you have no time for this?
 
-不要白忙一场啦，快来请教[猫头鹰](){: target="_blank"}吧！让你少走创业的冤枉路。
+##### Stop chasing your tail, come and ask [OWL](){: target="_blank"}! 
 
-这里有创业新手的所有相关咨询，也有简单易学的技能让你不用再依赖昂贵又不知能不能帮到你的课程了。
+Let you _work smarter_ and still be able to _outwork everyone else_.
 
-你必须知道一个道理：其实你要的很简单。
+In this app, we have all the relevant advice for entrepreneurship and some easy-to-learn skills, so you don't have to rely on expensive courses that aren't useful to you.
 
-最重要的事，你可以线上咨询获得帮助，创业不在孤单了。
+##### Stop procrastinating and start doing!
 
-<iframe src="/assets/posts/write/recipe-in-translation/translate-roticanai.pdf#view=fitH" width="700" height="500" frameborder="0"></iframe>
+Best of all, you can get help through online consultation, <br/>so you are no longer alone in starting a business.
+
+<br/>
+
+![sample app](/assets/posts/build/hola-project/pending.png)
 
 <br/><br/>
 
@@ -80,21 +93,22 @@ Let's start one by one.
 -->
 ### L for Luang
 
-户外最多的是污染，家里最多的是无用的垃圾。
+_We have serious pollutants outdoors, and you have lots of trash indoors._
 
-大家一定都有个堆满无用东西的橱柜或仓库。你不知道怎么整理，丢到哪儿，只能任由它占据你的生活空间。
+You want to get rid of clutters or other household items that you no longer need but don't know how to unload those unnecessary things. As a result, you kept them around the house and let them take over your living space.
 
-##### 没有了悠闲的空间，怎么会有悠闲的[时光](){: target="_blank"}？
+**If there is no leisure space ( ruang ), how can there be leisure time ( [Luang](){: target="_blank"} )?**
 
-你的垃圾或许就是别人的宝藏，我们可以帮你一把，让这些垃圾有了新生命。
+##### One man's trash is another man's treasure.
 
-而你就可以轻松的找回自己原有的自在生活，健康的人生。
+What you think is useless might be valuable to another. Therefore, we can help you to get rid of the trash and give it a new life.
 
-减少垃圾，重获生活的健康。
+After everything, <br/>
+you can reduce waste, save our environment and regain your freedom and healthy lifestyle.
 
 <br/>
 
-<iframe src="/assets/posts/write/recipe-in-translation/translate-baozi.pdf#view=fitH&page=3" width="700" height="500" frameborder="0"></iframe>
+![sample app](/assets/posts/build/hola-project/pending.png)
 
 <br/><br/>
 
@@ -104,17 +118,20 @@ Let's start one by one.
 -->
 ### A for Adate
 
-本人最讨厌大排长龙了，如果你也一样你一定觉得等待是愚蠢的行为。
+**I hate long queues the most.** <br/>If you think the same as me, you must be agree that it's a complete waste of time.
 
-那你希望可以提前预约，但公司制作个APP让你预约，不止烧钱又费时。
+So, you hope to _make an appointment in advance_. <br/>
+However, for a company to make an appointment app, it not only consumes money, but it also takes time.
 
-其实时代进步了，不想让你的顾客等太久，我们也不想让你等～ 
+In fact, modern technology has advanced, <br/>_neither you nor your customers have to wait too long_.
 
-只要[一个日期](){: target="_blank"}、一个时间，你要的东西就能轻松等到。
+##### Just need [Adate](){: target="_blank"} and a time, you can get what you request easily.
 
-现在你可以好好想想没浪费掉的时间要怎么善用啦。
+Now, you can think about how to make the most of the time you didn't waste waiting.
 
-<iframe src="/assets/posts/write/recipe-in-translation/translate-curry.pdf#view=fitH" width="700" height="500" frameborder="0"></iframe>
+<br/>
+
+![sample app](/assets/posts/build/hola-project/pending.png)
 
 <br/><br/>
 
@@ -122,13 +139,18 @@ Let's start one by one.
 <!---
     Post Closing
 -->
-HOLA 你感受到我亲切的问候了吗？
+##### HOLA! 
+##### Do you feel my warm greetings?
 
-最好的开始就是马上开始，因为开始就在这一瞬间，可未来还有很长的路要走。
+<br/>
+The best time to start is now. <br/>
+Don't worry about the opportunities and threats at this moment, you have a long way to perfect it in the future.
 
-何必去考虑现在做得好不好呢？
+Why worry about **doing things right or doing the right things**?
 
-应该想的是怎么开始吧，祝你好运！
+How to start is more important than that.
+
+Wish you good luck!
 
 <br/><br/>
 

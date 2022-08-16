@@ -3,7 +3,7 @@ title:  "Recipe in Translation"
 categories: write
 icon: "fa-pen"
 date:   2022-07-15 21:00:00 +0800
-duration: 5 mins read
+duration: 8 mins read
 hero: /assets/posts/write/recipe-in-translation/hero.png
 image: /assets/posts/write/recipe-in-translation/image.png
 ---
