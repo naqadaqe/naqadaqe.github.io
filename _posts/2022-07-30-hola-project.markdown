@@ -1,5 +1,5 @@
 ---
-title:  "HOLA ! Project"
+title:  "HOLA! App Project"
 categories: build
 icon: "fa-window-maximize"
 date:   2022-07-30 07:00:00 +0800
