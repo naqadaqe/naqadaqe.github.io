@@ -54,11 +54,11 @@ If you're a talented hero, you can also come to this place to advertise your var
 
 _**We are children's heroes and also their best buddies!**_
 
-##### Welcome to search for your [HeroBuddy](){: target="_blank"} 🔍
+##### Welcome to search for your [HeroBuddy](https://herobuddy.glideapp.io/){: target="_blank"} 🔍
 
 <br/>
 
-![sample app](/assets/posts/build/hola-project/pending.png)
+![HeroBuddy App](/assets/posts/build/hola-project/herobuddy.png)
 
 
 <br/><br/>
@@ -71,7 +71,7 @@ _**We are children's heroes and also their best buddies!**_
 
 Are you staying up late to chase your dreams? <br/>Planning to start a business, but you have no time for this?
 
-##### Stop chasing your tail, come and ask [OWL](){: target="_blank"}! 
+##### Stop chasing your tail, come and ask [OWL](https://outworkless.glideapp.io/){: target="_blank"}! 
 
 Let you _work smarter_ and still be able to _outwork everyone else_.
 
@@ -83,7 +83,7 @@ Best of all, you can get help through online consultation, <br/>so you are no lo
 
 <br/>
 
-![sample app](/assets/posts/build/hola-project/pending.png)
+![Outworkless App](/assets/posts/build/hola-project/outworkless.png)
 
 <br/><br/>
 
@@ -97,7 +97,7 @@ _We have serious pollutants outdoors, and you have lots of trash indoors._
 
 You want to get rid of clutters or other household items that you no longer need but don't know how to unload those unnecessary things. As a result, you kept them around the house and let them take over your living space.
 
-**If there is no leisure space ( ruang ), how can there be leisure time ( [Luang](){: target="_blank"} )?**
+**If there is no leisure space ( ruang ), how can there be leisure time ( [Luang](https://luangshop.glideapp.io/){: target="_blank"} )?**
 
 ##### One man's trash is another man's treasure.
 
@@ -108,7 +108,7 @@ you can reduce waste, save our environment and regain your freedom and healthy l
 
 <br/>
 
-![sample app](/assets/posts/build/hola-project/pending.png)
+![Luang Shop App](/assets/posts/build/hola-project/luangshop.png)
 
 <br/><br/>
 
@@ -125,13 +125,13 @@ However, for a company to make an appointment app, it not only consumes money, b
 
 In fact, modern technology has advanced, <br/>_neither you nor your customers have to wait too long_.
 
-##### Just need [Adate](){: target="_blank"} and a time, you can get what you request easily.
+##### Just need [Adate](https://adate.glideapp.io/){: target="_blank"} and a time, you can get what you request easily.
 
 Now, you can think about how to make the most of the time you didn't waste waiting.
 
 <br/>
 
-![sample app](/assets/posts/build/hola-project/pending.png)
+![Adate App](/assets/posts/build/hola-project/adate.png)
 
 <br/><br/>
 
