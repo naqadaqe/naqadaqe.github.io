@@ -4,7 +4,7 @@ title: "Where I Live"
 date: 
 separator: 
 duration: 
-hero: /assets/images/poster/contact.png
+hero: /assets/images/poster/contact.webp
 permalink: /contact/
 ---
 

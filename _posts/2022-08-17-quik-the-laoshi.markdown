@@ -4,8 +4,8 @@ categories: make
 icon: "fa-lightbulb"
 date:   2022-08-17 05:00:00 +0800
 duration: 6 mins read
-hero: /assets/posts/make/quik-the-laoshi/hero.png
-image: /assets/posts/make/quik-the-laoshi/image.png
+hero: /assets/posts/make/quik-the-laoshi/hero.webp
+image: /assets/posts/make/quik-the-laoshi/image.webp
 ---
 
 Want to learn a foreign language fast? <br/>But the process is long, tedious and not practical.

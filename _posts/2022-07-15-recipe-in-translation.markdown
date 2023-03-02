@@ -4,8 +4,8 @@ categories: write
 icon: "fa-pen"
 date:   2022-07-15 21:00:00 +0800
 duration: 8 mins read
-hero: /assets/posts/write/recipe-in-translation/hero.png
-image: /assets/posts/write/recipe-in-translation/image.png
+hero: /assets/posts/write/recipe-in-translation/hero.webp
+image: /assets/posts/write/recipe-in-translation/image.webp
 ---
 
 When comes to cooking, <br/> those vocabulary and terms vary with the region, and often ingredients are called completely different things in different areas.

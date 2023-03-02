@@ -4,8 +4,8 @@ categories: build
 icon: "fa-window-maximize"
 date:   2022-07-30 07:00:00 +0800
 duration: 5 mins read
-hero: /assets/posts/build/hola-project/hero.png
-image: /assets/posts/build/hola-project/image.png
+hero: /assets/posts/build/hola-project/hero.webp
+image: /assets/posts/build/hola-project/image.webp
 ---
 
 Are you considering a digital transformation? <br/>Do you think that it is too expensive and time-consuming to make an app?

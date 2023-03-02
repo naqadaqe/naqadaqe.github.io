@@ -4,8 +4,8 @@ categories: play
 icon: "fa-play"
 date:   2022-08-13 07:00:00 +0800
 duration: 15 mins read
-hero: /assets/posts/play/voice-stays-overnight/hero.png
-image: /assets/posts/play/voice-stays-overnight/image.png
+hero: /assets/posts/play/voice-stays-overnight/hero.webp
+image: /assets/posts/play/voice-stays-overnight/image.webp
 ---
 
 The information age is quite fed up with noises. <br/>At the end of the day, what is the sound that still sticks in your head?
