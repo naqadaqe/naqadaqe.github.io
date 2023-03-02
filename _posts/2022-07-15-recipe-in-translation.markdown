@@ -51,7 +51,7 @@ Because I like it so much, remember once I bought 5 packs at a time, and enjoy a
 
 You can [download it here](/assets/posts/write/recipe-in-translation/translate-nasilemak.pdf){: target="_blank"}.
 
-<iframe src="/assets/posts/write/recipe-in-translation/translate-nasilemak.pdf#view=fitH&page=2" width="700" height="500" frameborder="0"></iframe>
+<iframe src="/assets/posts/write/recipe-in-translation/translate-nasilemak.pdf#view=fitH&page=2&toolbar=0" width="700" height="500" frameborder="0"></iframe>
 
 <br/><br/>
 
@@ -71,7 +71,7 @@ as long as you want to eat, you can easily [download here](/assets/posts/write/r
 
 But it is undeniable the best roti is in our Mamak stall ~ 😋
 
-<iframe src="/assets/posts/write/recipe-in-translation/translate-roticanai.pdf#view=fitH" width="700" height="500" frameborder="0"></iframe>
+<iframe src="/assets/posts/write/recipe-in-translation/translate-roticanai.pdf#view=fitH&toolbar=0" width="700" height="500" frameborder="0"></iframe>
 
 <br/><br/>
 
@@ -98,7 +98,7 @@ Some common flavors are:
 
 <br/>
 
-<iframe src="/assets/posts/write/recipe-in-translation/translate-baozi.pdf#view=fitH&page=3" width="700" height="500" frameborder="0"></iframe>
+<iframe src="/assets/posts/write/recipe-in-translation/translate-baozi.pdf#view=fitH&page=3&toolbar=0" width="700" height="500" frameborder="0"></iframe>
 
 <br/><br/>
 
@@ -121,7 +121,7 @@ You can see how much people loves [curry](/assets/posts/write/recipe-in-translat
 
 😂
 
-<iframe src="/assets/posts/write/recipe-in-translation/translate-curry.pdf#view=fitH" width="700" height="500" frameborder="0"></iframe>
+<iframe src="/assets/posts/write/recipe-in-translation/translate-curry.pdf#view=fitH&toolbar=0" width="700" height="500" frameborder="0"></iframe>
 
 <br/><br/>
 
