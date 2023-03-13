@@ -22,6 +22,7 @@ github_username:  naqadaqe
 # Build settings
 markdown: kramdown
 theme: minima
+timezone: Asia/Kuala_Lumpur
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

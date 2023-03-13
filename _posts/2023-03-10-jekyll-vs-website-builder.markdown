@@ -2,8 +2,8 @@
 title:  "Jekyll vs Website Builders"
 categories: build
 icon: "fa-window-maximize"
-date:   2023-03-11 07:00:00 +0800
-duration: 10 mins read
+date:   2023-03-10 10:00:00 +0800
+duration: 7 mins read
 hero: /assets/posts/build/jekyll-vs-website-builder/hero.webp
 image: /assets/posts/build/jekyll-vs-website-builder/image.webp
 ---
