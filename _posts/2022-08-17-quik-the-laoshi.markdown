@@ -1,11 +1,12 @@
 ---
-title:  "Quik the Laoshi"
-categories: make
-icon: "fa-lightbulb"
-date:   2022-08-17 05:00:00 +0800
+title: Quik the Laoshi
+categories:
+- make
+icon: fa-lightbulb
+date: '2022-08-17 05:00:00 +0800'
 duration: 6 mins read
-hero: /assets/posts/make/quik-the-laoshi/hero.webp
-image: /assets/posts/make/quik-the-laoshi/image.webp
+hero: "/assets/posts/make/quik-the-laoshi/hero.webp"
+image: "/assets/posts/make/quik-the-laoshi/image.webp"
 ---
 
 Want to learn a foreign language fast? <br/>But the process is long, tedious and not practical.
@@ -143,5 +144,3 @@ Whether you're _self-taught_ or _taking a class_ to learn a new language, <br/>t
 ##### If you like the article and want to learn Chinese, just [drop a message](mailto:?subject={{ page.title }}&amp;body=I want to speak Chinese!) to my inbox.
 
 ##### And if you are interested to know more about me, welcome to [my about page]({{ site.url }}/about).
-
-
