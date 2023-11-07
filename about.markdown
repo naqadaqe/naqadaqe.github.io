@@ -30,7 +30,7 @@ the name came from Japanese pronunciation: 中岳（なかだけ）.
 If this is hard to remember, just call my nickname **Quik**.
 
 
-![My Portrait](/assets/images/portrait.jpg){: .circle-img}
+![My Portrait](https://avatars.githubusercontent.com/u/58722004?v=4){: .circle-img}
 
 
 I grew up with an *eager spirit*, curiousity drives me to learn fast and makes my hand dirty to try out new things.
